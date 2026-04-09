@@ -309,4 +309,4 @@ include/gungnir/median_filter/
 
 ## License
 
-See [LICENSE](LICENSE) for details.
+See [LICENSE](LICENSE.txt) for details.
